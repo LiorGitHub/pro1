@@ -2,4 +2,7 @@ void main(){
 cout<<"hello";
 cout<<"world";
 cout<<"hello";
+cout<<"hello";
+cout<<"world";
+cout<<"hello";
 }
