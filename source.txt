@@ -3,3 +3,7 @@ cout<<"hello";
 cout<<"world";
 cout<<"hello";
 }
+
+fun1 (){
+cout<<"hello from fun 1";
+}
